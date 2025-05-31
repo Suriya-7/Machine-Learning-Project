@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/*.lock
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# Python environment
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Pip
+pip-log.txt
+
+# Environment variables
+.env
+.env.*
